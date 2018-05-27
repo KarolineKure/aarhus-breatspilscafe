@@ -159,11 +159,11 @@ header {
 }
 
 .header-vestergade {
-    background-image: url(../images/vestergade-header.jpg);
+    background-image: url(aarhus-breatspilscafe/images/vestergade-header.jpg);
 }
 
 .header-fredensgade {
-    background-image: url(../images/test-fredensgade.jpg);
+    background-image: url(aarhus-breatspilscafe/images/test-fredensgade.jpg);
 }
 
 .logo-header {
@@ -780,7 +780,7 @@ a {
     .b-fredensgade {
         width: 25%;
         font-size: 25px;
-        top: 70%;
+        top: 76%;
     }
 
     .b-vestergade {
@@ -796,7 +796,7 @@ a {
         display: block;
         position: absolute;
         font-size: 20px;
-        top: 54%;
+        top: 58%;
         transform: translate(-50%, -50%);
     }
     .abningstider-vestergade {
